@@ -1,0 +1,9 @@
+services: 
+  app:
+    container_name: meteo-app
+    build: .
+    ports: 
+      - "8081:8080"
+
+      
+    
