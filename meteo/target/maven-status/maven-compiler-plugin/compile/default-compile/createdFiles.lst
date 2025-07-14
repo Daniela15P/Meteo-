@@ -1,0 +1,5 @@
+com\dani\meteo\controller\AppREST.class
+com\dani\meteo\model\Citta.class
+com\dani\meteo\service\MyService.class
+com\dani\meteo\repo\CittaRepo.class
+com\dani\meteo\MeteoApplication.class
